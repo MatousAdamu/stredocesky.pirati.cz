@@ -22,9 +22,9 @@ contactPersons:
    - position: Krajský koordinátor
      uid: barbora.vaicova
 profiles:
-   facebook: "https://www.facebook.com/PiratiMDB"
-   forum: "https://forum.pirati.cz/viewforum.php?f=1485"
-   email: matous.adamu@pirati.cz 
+   facebook: "https://www.facebook.com/PiratiMB"
+   forum: "https://forum.pirati.cz/viewforum.php?f=737"
+   email: mladaboleslav@pirati.cz 
 ---
 
 [{% asset 'https://a.pirati.cz/stredocesky/img/ms/mlada-boleslav/top.png' alt='MS Mladá Boleslav' %}](https://nalodeni.pirati.cz/)
